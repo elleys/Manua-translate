@@ -22,3 +22,7 @@
 学习网站：
 
  ＊「[算法组](http://suanfazu.com/t/topic/15)」
+
+ ＊「[cocode](http://cocode.cc/)」
+ 
+ ＊「[v2ex](http://v2ex.com)」
