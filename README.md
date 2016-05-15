@@ -18,6 +18,8 @@
 
  ＊「[知道创宇技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)」
  
+ ＊「[新生](https://www.gitbook.com/book/xiaolai/reborn/details)」
+ 
  
 学习网站：
 
